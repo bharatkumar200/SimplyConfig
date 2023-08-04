@@ -1,0 +1,19 @@
+{
+    "name": "simplydi/simplyconfig",
+    "description": "A very simple configuration component for any app using yaml files",
+    "require": {
+        "symfony/yaml": "^6.3"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "SimplyDi\\SimplyConfig\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bharat Kumar",
+            "email": "naman97034@gmail.com"
+        }
+    ]
+}
